@@ -1,6 +1,10 @@
 ### TODO APIs 
 
-A django project to create a TODO API.
+A django project to create a TODO API. Django features covered:
+
+- Django Rest Framework
+- Cors Headers (for cross-origin requests)
+- Django Rest Swagger (for API documentation)
 
 #### Requirements
 
