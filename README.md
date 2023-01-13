@@ -6,7 +6,7 @@ A django project to create a TODO API. Django features covered:
 - Cors Headers (for cross-origin requests)
 - Django Rest Swagger (for API documentation)
 
-#### Requirements
+### Requirements
 
 - Python 3.6
 - Django 2.0
@@ -14,7 +14,7 @@ A django project to create a TODO API. Django features covered:
 - Django Rest Swagger 2.1
 
 
-#### Installation
+### Installation
 
 - Clone the repository
 - Create a virtual environment
@@ -22,3 +22,8 @@ A django project to create a TODO API. Django features covered:
 - Run the migrations
 - Run the server
 - Go to http://localhost:8000/docs/ to see the API documentation
+
+
+### Credits
+
+This is a project based on The book **Django for APIs (Build web APIs with Python and Django)** by William S. Vincent.
